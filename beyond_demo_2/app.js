@@ -66,7 +66,8 @@ app.post('/release',function(req,res){
         service: 'gmail',
         auth: {
           user: 'dianujkotov1997@gmail.com',
-          pass: 'c03335545_@b'
+          pass: 'xyz'
+            
         }
       });
       
